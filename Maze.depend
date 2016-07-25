@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1442183880 source:/home/deiby/Escritorio/TEC/C/Maze/main.c
+	<stdlib.h>
+	<pthread.h>
+	"maze_solver.h"
+
+1442189910 /home/deiby/Escritorio/TEC/C/Maze/maze_solver.h
+	"thread.h"
+
+1442174350 /home/deiby/Escritorio/TEC/C/Maze/thread.h
+	"maze.h"
+
+1442181231 /home/deiby/Escritorio/TEC/C/Maze/maze.h
+	<stdio.h>
+	<stdbool.h>
+	<stdlib.h>
+	<pthread.h>
+	<errno.h>
+	<string.h>
+
+1442182167 source:/home/deiby/Escritorio/TEC/C/Maze/maze.c
+	"thread.h"
+
+1442192348 source:/home/deiby/Escritorio/TEC/C/Maze/maze_solver.c
+	"maze_solver.h"
+
+1442182161 source:/home/deiby/Escritorio/TEC/C/Maze/thread.c
+	"thread.h"
+
+1466532822 source:c:\users\deiby\google drive\tec-linux\c\maze\main.c
+	<stdlib.h>
+	<pthread.h>
+	"maze_solver.h"
+
+1466532822 c:\users\deiby\google drive\tec-linux\c\maze\maze_solver.h
+	"thread.h"
+
+1466532822 c:\users\deiby\google drive\tec-linux\c\maze\thread.h
+	"maze.h"
+
+1466532822 c:\users\deiby\google drive\tec-linux\c\maze\maze.h
+	<stdio.h>
+	<stdbool.h>
+	<stdlib.h>
+	<pthread.h>
+	<errno.h>
+	<string.h>
+
+1466532825 source:c:\users\deiby\google drive\tec-linux\c\maze\maze.c
+	"thread.h"
+
+1466532822 source:c:\users\deiby\google drive\tec-linux\c\maze\maze_solver.c
+	"maze_solver.h"
+
+1466532825 source:c:\users\deiby\google drive\tec-linux\c\maze\thread.c
+	"thread.h"
+
